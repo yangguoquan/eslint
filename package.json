@@ -1,0 +1,24 @@
+{
+  "name": "eslint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "gitbook serve",
+    "build": "gitbook build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangguoquan/eslint.git"
+  },
+  "author": "guoquan.yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangguoquan/eslint/issues"
+  },
+  "homepage": "https://github.com/yangguoquan/eslint#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.0"
+  }
+}
